@@ -1,3 +1,3 @@
 # project1
 <br>
-author - Aniket Bamane
+author - Aniket R. Bamane
